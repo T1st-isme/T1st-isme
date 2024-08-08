@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [TechShop](https://github.com/T1st-isme/techshop_app)
 
-- 🌱 I’m currently learning **Flutter, React, Node, MongoDB,...**
+- 🌱 I’m currently learning **Flutter, ReactJS, NodeJS, MongoDB,...**
 
 - 📫 How to reach me **trientrung102@gmail.com**
 
